@@ -1,7 +1,28 @@
 ##UI-UX EXPERIMENT -1
+
+
+
+
 ##NAME:H.MOHAMMED IRFAN
-##REG NO:212225230179
+
+
+
+
+
+
+
+##REG NO:212225230179        
+
+
+
+
+
+
 ##DATE:22-07-2026
+
+
+
+
 
 ##AIM:
 To explore the fundamentals of User Interface (UI) and User Experience (UX), differentiate UI and UX using real-world examples, understand their relationship in the design process, and demonstrate various UI/UX design tools.
@@ -154,6 +175,14 @@ Canva can be used for:
 <img width="1513" height="688" alt="image" src="https://github.com/user-attachments/assets/e708b133-d6fc-42be-9703-7f0b7b02f443" />
 <img width="1516" height="695" alt="image" src="https://github.com/user-attachments/assets/065f9d4e-ffb2-4fea-90a3-6627535d1953" />
 Both Amazon and Flipkart provide similar e-commerce functions such as search, product browsing, categories, cart, and account management. However, their UI differs in terms of color scheme, typography, layout, icons, and visual presentation. Their UX can be compared based on ease of navigation, product discovery, filtering, checkout, and overall user convenience.
+
+
+
+
+
+
+
+
 
 ##RESULT:
 The fundamentals of UI and UX were studied successfully. The differences and relationship between UI and UX were understood using real-world applications. Various UI/UX design tools were explored, and a basic user interface prototype for an online shopping application was designed using UI/UX principles.
